@@ -1,0 +1,5 @@
+include mapbox_dash/mapbox_dash.min.js
+include mapbox_dash/mapbox_dash.dev.js
+include mapbox_dash/metadata.json
+include mapbox_dash/package.json
+include README.md
